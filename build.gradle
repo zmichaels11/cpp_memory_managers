@@ -1,0 +1,9 @@
+apply plugin: 'cpp'
+
+model {
+    components {
+        MemoryManager (NativeLibrarySpec) {
+            
+        }
+    }
+}
